@@ -12,7 +12,7 @@ python3 u_ga.py -h -n [1:inf] -b [1:inf] -p [1:inf] -f function name
 
 Available Functions:
 
-Function 1: one_max
+Function 1: one_max <br>
 Function 2: zero_max
 Function 3: sq01
 Function 4: quad01
